@@ -8,7 +8,8 @@ export default function Contenido(){
 
     return(
         <main id="contenido">
-
+            <span> Registro Cliente</span>
+            <br></br>
             <div class="item">
             <   span>Id      </span>
                 <input onChange={(e) => setNumero1(e.target.value)}  type='number'></input>               
