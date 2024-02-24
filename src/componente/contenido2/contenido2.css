@@ -1,0 +1,10 @@
+#contenido2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    border: 2px solid;
+    align-items: right;
+    height: 20vh;
+    background: #f5e8cf;
+}
+
